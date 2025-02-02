@@ -8,7 +8,7 @@ A simple and stylish digital clock created using **HTML**, **CSS**, and **JavaSc
 - Minimal and responsive design.
 
 ## 🗒 Preview
-![Clock Preview](https://via.placeholder.com/600x200?text=Digital+Clock+Preview)
+![Clock Preview](https://harjotrocks.com/javascript/digital-clock/)
 
 ## 🛠️ How to Use
 1. Clone or download this repository.
@@ -47,13 +47,11 @@ You can see the clock in action by opening `index.html` directly in your browser
 ## 🛠️ Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/digital-clock.git
+   git clone https://github.com/Harjot2552/digital-clock.git
    ```
 2. Navigate to the project directory and open `index.html`.
 
 ## ❤️ Contribution
 Feel free to submit issues or pull requests to improve this project.
 
-## 💎 License
-This project is licensed under the MIT License.
 
